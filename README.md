@@ -34,7 +34,7 @@
         <br/>
         <br/>
         <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=md-saiful-islam-rafi&count_private=true&theme=chartreuse-dark&show_icons=true" alt="Pramod's Github            Stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=md-saiful-islam-rafi&count_private=true&theme=shades-of-purple&show_icons=true" alt="Pramod's Github            Stats">
         </p>
        </a>
     </p>
